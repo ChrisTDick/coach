@@ -1,0 +1,3395 @@
+{
+  "generated": "2026-01-17T10:34:15.146820",
+  "athlete": {
+    "name": "Christopher Dick",
+    "id": "i238425"
+  },
+  "summary": {
+    "period": {
+      "start": "2025-12-25",
+      "end": "2026-01-16",
+      "days": 24
+    },
+    "totals": {
+      "activities": 30,
+      "runs": 22,
+      "rides": 8,
+      "total_distance_km": 442.7,
+      "total_time_hours": 24.6,
+      "total_elevation_m": 6672.0,
+      "total_training_load": 1383,
+      "total_calories": 19123
+    },
+    "running": {
+      "count": 22,
+      "distance_km": 186.8,
+      "time_hours": 15.9,
+      "avg_pace_min_per_km": 5.3,
+      "avg_hr": 139.3,
+      "elevation_gain_m": 3511.0
+    },
+    "cycling": {
+      "count": 8,
+      "distance_km": 255.9,
+      "time_hours": 8.6,
+      "avg_speed_kmh": 30.8,
+      "avg_hr": 133.0
+    },
+    "fitness_trend": {
+      "ctl_start": 49.3,
+      "ctl_end": 54.2,
+      "ctl_change": 4.9,
+      "avg_resting_hr": 49.1,
+      "avg_sleep_hours": 8.3,
+      "avg_steps": 13462.0
+    }
+  },
+  "activities": [
+    {
+      "id": "i118414440",
+      "date": "2026-01-16",
+      "time": "18:44",
+      "type": "Run",
+      "name": "16km Steady",
+      "distance_km": 15.25,
+      "moving_time_min": 78.5,
+      "elapsed_time_min": 82.5,
+      "avg_pace_min_per_km": 5.15,
+      "avg_speed_kmh": 11.6,
+      "max_speed_kmh": 14.3,
+      "gap_pace": 3.31513,
+      "avg_hr": 134,
+      "max_hr": 153,
+      "hr_zone_times_sec": [
+        3383,
+        1008,
+        291,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.4,
+      "elevation_gain_m": 205.0,
+      "elevation_loss_m": 204.0,
+      "training_load": 64,
+      "trimp": 93.4,
+      "calories": 1065,
+      "ctl_fitness": 54.2,
+      "atl_fatigue": 62.3,
+      "pace_zone_times_sec": [
+        1425,
+        2720,
+        545,
+        24,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.52,
+          "avg_hr": 119,
+          "avg_cadence": 84,
+          "elevation_gain_m": 22.0
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 4.93,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 42.0
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 6.43,
+          "avg_hr": 126,
+          "avg_cadence": 82,
+          "elevation_gain_m": 50.4
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 6.58,
+          "avg_hr": 134,
+          "avg_cadence": 83,
+          "elevation_gain_m": 36.8
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 5.42,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 28.2
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 5.15,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 21.8
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 6.18,
+          "avg_hr": 139,
+          "avg_cadence": 84,
+          "elevation_gain_m": 46.2
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 5.4,
+          "avg_hr": 140,
+          "avg_cadence": 84,
+          "elevation_gain_m": 39.0
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 5.42,
+          "avg_hr": 143,
+          "avg_cadence": 84,
+          "elevation_gain_m": 61.6
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 5.17,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 34.2
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 4.97,
+          "avg_hr": 127,
+          "avg_cadence": 83,
+          "elevation_gain_m": 21.6
+        },
+        {
+          "km": 12,
+          "pace_min_per_km": 5.52,
+          "avg_hr": 137,
+          "avg_cadence": 84,
+          "elevation_gain_m": 43.6
+        },
+        {
+          "km": 13,
+          "pace_min_per_km": 4.8,
+          "avg_hr": 137,
+          "avg_cadence": 83,
+          "elevation_gain_m": 17.0
+        },
+        {
+          "km": 14,
+          "pace_min_per_km": 4.93,
+          "avg_hr": 137,
+          "avg_cadence": 84,
+          "elevation_gain_m": 26.0
+        },
+        {
+          "km": 15,
+          "pace_min_per_km": 4.82,
+          "avg_hr": 136,
+          "avg_cadence": 83,
+          "elevation_gain_m": 22.6
+        }
+      ]
+    },
+    {
+      "id": "i118208602",
+      "date": "2026-01-15",
+      "time": "20:28",
+      "type": "VirtualRide",
+      "name": "Easy hour after leg day at gym",
+      "description": "\ud83c\udfcb\ufe0f\u200d\u2642\ufe0f",
+      "distance_km": 33.04,
+      "moving_time_min": 60.8,
+      "elapsed_time_min": 61.1,
+      "avg_pace_min_per_km": 1.84,
+      "avg_speed_kmh": 32.6,
+      "max_speed_kmh": 48.3,
+      "avg_hr": 125,
+      "max_hr": 145,
+      "hr_zone_times_sec": [
+        3092,
+        555,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 81.1,
+      "elevation_gain_m": 194,
+      "elevation_loss_m": 0,
+      "training_load": 38,
+      "trimp": 58.3,
+      "calories": 572,
+      "ctl_fitness": 53.9,
+      "atl_fatigue": 62.0,
+      "device": "ZWIFT -!\u007f",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i117975155",
+      "date": "2026-01-14",
+      "time": "18:42",
+      "type": "Run",
+      "name": "Warm up/ intervals with 7oaks/ cool down",
+      "description": "Happy with that 3min 40s kilometre in there",
+      "distance_km": 17.69,
+      "moving_time_min": 81.2,
+      "elapsed_time_min": 105.4,
+      "avg_pace_min_per_km": 4.59,
+      "avg_speed_kmh": 13.0,
+      "max_speed_kmh": 17.4,
+      "gap_pace": 3.658696,
+      "avg_hr": 146,
+      "max_hr": 173,
+      "hr_zone_times_sec": [
+        1303,
+        1083,
+        1479,
+        744,
+        211,
+        49,
+        0
+      ],
+      "avg_cadence": 84.8,
+      "elevation_gain_m": 250,
+      "elevation_loss_m": 252,
+      "training_load": 91,
+      "trimp": 136.0,
+      "calories": 1180,
+      "ctl_fitness": 54.3,
+      "atl_fatigue": 65.7,
+      "pace_zone_times_sec": [
+        973,
+        1846,
+        321,
+        255,
+        432,
+        789,
+        275
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.33,
+          "avg_hr": 123,
+          "avg_cadence": 86,
+          "elevation_gain_m": 13.8
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 5.07,
+          "avg_hr": 141,
+          "avg_cadence": 85,
+          "elevation_gain_m": 37.0
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 5.48,
+          "avg_hr": 152,
+          "avg_cadence": 86,
+          "elevation_gain_m": 72.2
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.68,
+          "avg_hr": 150,
+          "avg_cadence": 85,
+          "elevation_gain_m": 28.4
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 17.7,
+          "avg_hr": 145,
+          "avg_cadence": 85,
+          "elevation_gain_m": 19.4
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.15,
+          "avg_hr": 149,
+          "avg_cadence": 84,
+          "elevation_gain_m": 11.6
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 4.27,
+          "avg_hr": 152,
+          "avg_cadence": 84,
+          "elevation_gain_m": 18.0
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 4.32,
+          "avg_hr": 151,
+          "avg_cadence": 84,
+          "elevation_gain_m": 5.6
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 4.27,
+          "avg_hr": 154,
+          "avg_cadence": 84,
+          "elevation_gain_m": 12.2
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 4.25,
+          "avg_hr": 153,
+          "avg_cadence": 84,
+          "elevation_gain_m": 15.0
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 4.35,
+          "avg_hr": 155,
+          "avg_cadence": 84,
+          "elevation_gain_m": 12.2
+        },
+        {
+          "km": 12,
+          "pace_min_per_km": 4.12,
+          "avg_hr": 155,
+          "avg_cadence": 85,
+          "elevation_gain_m": 12.4
+        },
+        {
+          "km": 13,
+          "pace_min_per_km": 4.03,
+          "avg_hr": 159,
+          "avg_cadence": 85,
+          "elevation_gain_m": 14.0
+        },
+        {
+          "km": 14,
+          "pace_min_per_km": 14.92,
+          "avg_hr": 142,
+          "avg_cadence": 85,
+          "elevation_gain_m": 30.0
+        },
+        {
+          "km": 15,
+          "pace_min_per_km": 5.03,
+          "avg_hr": 142,
+          "avg_cadence": 85,
+          "elevation_gain_m": 29.4
+        },
+        {
+          "km": 16,
+          "pace_min_per_km": 5.13,
+          "avg_hr": 138,
+          "avg_cadence": 84,
+          "elevation_gain_m": 12.8
+        },
+        {
+          "km": 17,
+          "pace_min_per_km": 5.0,
+          "avg_hr": 137,
+          "avg_cadence": 85,
+          "elevation_gain_m": 34.0
+        }
+      ]
+    },
+    {
+      "id": "i117728513",
+      "date": "2026-01-13",
+      "time": "19:20",
+      "type": "VirtualRide",
+      "name": "Z2 Ride",
+      "distance_km": 41.69,
+      "moving_time_min": 76.8,
+      "elapsed_time_min": 76.8,
+      "avg_pace_min_per_km": 1.84,
+      "avg_speed_kmh": 32.6,
+      "max_speed_kmh": 89.0,
+      "avg_hr": 146,
+      "max_hr": 165,
+      "hr_zone_times_sec": [
+        244,
+        2741,
+        1103,
+        518,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 73.6,
+      "elevation_gain_m": 737,
+      "elevation_loss_m": 0,
+      "training_load": 81,
+      "trimp": 126.6,
+      "calories": 952,
+      "ctl_fitness": 53.4,
+      "atl_fatigue": 61.8,
+      "device": "ZWIFT 0\u0002\u007f",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i117518699",
+      "date": "2026-01-12",
+      "time": "19:04",
+      "type": "Run",
+      "name": "Lap of Sevenoaks",
+      "description": "Felt warm tonight!",
+      "distance_km": 11.44,
+      "moving_time_min": 59.6,
+      "elapsed_time_min": 68.5,
+      "avg_pace_min_per_km": 5.21,
+      "avg_speed_kmh": 11.4,
+      "max_speed_kmh": 13.6,
+      "gap_pace": 3.1966186,
+      "avg_hr": 136,
+      "max_hr": 156,
+      "hr_zone_times_sec": [
+        2028,
+        1255,
+        281,
+        1,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.1,
+      "elevation_gain_m": 162,
+      "elevation_loss_m": 166,
+      "training_load": 52,
+      "trimp": 78.4,
+      "calories": 803,
+      "ctl_fitness": 52.8,
+      "atl_fatigue": 58.9,
+      "pace_zone_times_sec": [
+        1619,
+        1755,
+        270,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.52,
+          "avg_hr": 131,
+          "avg_cadence": 85,
+          "elevation_gain_m": 36.8
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 6.03,
+          "avg_hr": 136,
+          "avg_cadence": 84,
+          "elevation_gain_m": 44.8
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 6.18,
+          "avg_hr": 138,
+          "avg_cadence": 84,
+          "elevation_gain_m": 53.4
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 6.45,
+          "avg_hr": 132,
+          "avg_cadence": 83,
+          "elevation_gain_m": 36.6
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 6.03,
+          "avg_hr": 133,
+          "avg_cadence": 83,
+          "elevation_gain_m": 37.8
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 5.2,
+          "avg_hr": 135,
+          "avg_cadence": 82,
+          "elevation_gain_m": 25.6
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 5.07,
+          "avg_hr": 130,
+          "avg_cadence": 82,
+          "elevation_gain_m": 16.2
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 10.12,
+          "avg_hr": 130,
+          "avg_cadence": 82,
+          "elevation_gain_m": 28.6
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 5.53,
+          "avg_hr": 139,
+          "avg_cadence": 83,
+          "elevation_gain_m": 27.0
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 5.07,
+          "avg_hr": 143,
+          "avg_cadence": 83,
+          "elevation_gain_m": 26.2
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 5.03,
+          "avg_hr": 147,
+          "avg_cadence": 83,
+          "elevation_gain_m": 22.6
+        }
+      ]
+    },
+    {
+      "id": "i117201673",
+      "date": "2026-01-11",
+      "time": "11:42",
+      "type": "Run",
+      "name": "5km Cool Down",
+      "distance_km": 2.16,
+      "moving_time_min": 11.0,
+      "elapsed_time_min": 11.2,
+      "avg_pace_min_per_km": 5.11,
+      "avg_speed_kmh": 11.7,
+      "max_speed_kmh": 12.4,
+      "gap_pace": 3.2882488,
+      "avg_hr": 136,
+      "max_hr": 144,
+      "hr_zone_times_sec": [
+        450,
+        213,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 84.3,
+      "elevation_gain_m": 22,
+      "elevation_loss_m": 20,
+      "training_load": 9,
+      "trimp": 14.4,
+      "calories": 147,
+      "ctl_fitness": 52.8,
+      "atl_fatigue": 59.9,
+      "pace_zone_times_sec": [
+        52,
+        618,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.13,
+          "avg_hr": 134,
+          "avg_cadence": 85,
+          "elevation_gain_m": 16.4
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 5.05,
+          "avg_hr": 139,
+          "avg_cadence": 85,
+          "elevation_gain_m": 15.8
+        }
+      ]
+    },
+    {
+      "id": "i117201655",
+      "date": "2026-01-11",
+      "time": "11:00",
+      "type": "Run",
+      "name": "XC Betteshanger",
+      "distance_km": 8.44,
+      "moving_time_min": 35.5,
+      "elapsed_time_min": 35.5,
+      "avg_pace_min_per_km": 4.2,
+      "avg_speed_kmh": 14.2,
+      "max_speed_kmh": 19.0,
+      "gap_pace": 4.015212,
+      "avg_hr": 165,
+      "max_hr": 176,
+      "hr_zone_times_sec": [
+        30,
+        5,
+        5,
+        718,
+        782,
+        573,
+        15
+      ],
+      "avg_cadence": 85.0,
+      "elevation_gain_m": 84,
+      "elevation_loss_m": 82,
+      "training_load": 60,
+      "trimp": 90.9,
+      "calories": 573,
+      "ctl_fitness": 52.8,
+      "atl_fatigue": 59.9,
+      "pace_zone_times_sec": [
+        77,
+        262,
+        207,
+        466,
+        492,
+        459,
+        165
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 3.8,
+          "avg_hr": 161,
+          "avg_cadence": 87,
+          "elevation_gain_m": 19.6
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 4.4,
+          "avg_hr": 167,
+          "avg_cadence": 85,
+          "elevation_gain_m": 26.6
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 4.27,
+          "avg_hr": 168,
+          "avg_cadence": 85,
+          "elevation_gain_m": 22.4
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.12,
+          "avg_hr": 168,
+          "avg_cadence": 84,
+          "elevation_gain_m": 12.2
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 4.12,
+          "avg_hr": 165,
+          "avg_cadence": 84,
+          "elevation_gain_m": 20.4
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.68,
+          "avg_hr": 165,
+          "avg_cadence": 85,
+          "elevation_gain_m": 22.2
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 4.35,
+          "avg_hr": 163,
+          "avg_cadence": 85,
+          "elevation_gain_m": 23.4
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 4.12,
+          "avg_hr": 165,
+          "avg_cadence": 84,
+          "elevation_gain_m": 9.6
+        }
+      ]
+    },
+    {
+      "id": "i117201592",
+      "date": "2026-01-11",
+      "time": "10:44",
+      "type": "Run",
+      "name": "Warm up",
+      "distance_km": 1.2,
+      "moving_time_min": 6.7,
+      "elapsed_time_min": 6.8,
+      "avg_pace_min_per_km": 5.6,
+      "avg_speed_kmh": 10.7,
+      "max_speed_kmh": 12.3,
+      "gap_pace": 3.0784085,
+      "avg_hr": 130,
+      "max_hr": 145,
+      "hr_zone_times_sec": [
+        323,
+        83,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.2,
+      "elevation_gain_m": 14,
+      "elevation_loss_m": 12,
+      "training_load": 5,
+      "trimp": 7.5,
+      "calories": 87,
+      "ctl_fitness": 52.8,
+      "atl_fatigue": 59.9,
+      "pace_zone_times_sec": [
+        289,
+        117,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.47,
+          "avg_hr": 128,
+          "avg_cadence": 83,
+          "elevation_gain_m": 20.2
+        }
+      ]
+    },
+    {
+      "id": "i116977920",
+      "date": "2026-01-10",
+      "time": "10:10",
+      "type": "VirtualRide",
+      "name": "Stage 1 - Tour de Zwift",
+      "description": "Ahhhh managed to hold onto peloton for the first 20km until the big hill. Crazy how you give the group even just 10m gap even on an big hill and it\u2019s impossible to catch back up again \ud83d\ude29\ud83d\ude29\n\nAfter being dropped my dreams of a podium finish were over. For the rest of the race I was battling for 39th place. We were yo-yo-ing back and forth for last 10km of the race until I let him take a little lead and with 250m to go I dropped a lifetime best 15 second power to secure that sweet top 40 finish \ud83d\ude02",
+      "distance_km": 28.18,
+      "moving_time_min": 45.2,
+      "elapsed_time_min": 45.2,
+      "avg_pace_min_per_km": 1.61,
+      "avg_speed_kmh": 37.4,
+      "max_speed_kmh": 60.7,
+      "avg_hr": 146,
+      "max_hr": 172,
+      "hr_zone_times_sec": [
+        353,
+        1096,
+        1039,
+        209,
+        11,
+        7,
+        0
+      ],
+      "avg_cadence": 74.3,
+      "elevation_gain_m": 215,
+      "elevation_loss_m": 0,
+      "training_load": 48,
+      "trimp": 75.2,
+      "calories": 608,
+      "ctl_fitness": 52.3,
+      "atl_fatigue": 57.8,
+      "device": "ZWIFT f\u007f",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i116964309",
+      "date": "2026-01-10",
+      "time": "09:35",
+      "type": "VirtualRide",
+      "name": "Warm up",
+      "description": "With Jerry Lost In Pace \ud83d\udc09 \ud83d\udd25  expanding powerups and drafting and sprint segments \n\nThen realising we\u2019re all just playing Mario kart here aren\u2019t we",
+      "distance_km": 12.0,
+      "moving_time_min": 26.3,
+      "elapsed_time_min": 31.1,
+      "avg_pace_min_per_km": 2.19,
+      "avg_speed_kmh": 27.3,
+      "max_speed_kmh": 58.4,
+      "avg_hr": 106,
+      "max_hr": 146,
+      "hr_zone_times_sec": [
+        1546,
+        31,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 76.0,
+      "elevation_gain_m": 155,
+      "elevation_loss_m": 0,
+      "training_load": 9,
+      "trimp": 15.1,
+      "calories": 214,
+      "ctl_fitness": 52.3,
+      "atl_fatigue": 57.8,
+      "device": "ZWIFT f\u007f",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i116879445",
+      "date": "2026-01-09",
+      "time": "18:23",
+      "type": "Run",
+      "name": "Top secret run club",
+      "description": "With Mehdi Kaddour ",
+      "distance_km": 17.81,
+      "moving_time_min": 90.9,
+      "elapsed_time_min": 102.0,
+      "avg_pace_min_per_km": 5.1,
+      "avg_speed_kmh": 11.7,
+      "max_speed_kmh": 16.8,
+      "gap_pace": 3.4129312,
+      "avg_hr": 130,
+      "max_hr": 144,
+      "hr_zone_times_sec": [
+        5364,
+        78,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 84.1,
+      "elevation_gain_m": 467,
+      "elevation_loss_m": 469.0,
+      "training_load": 66,
+      "trimp": 99.6,
+      "calories": 1161,
+      "ctl_fitness": 52.2,
+      "atl_fatigue": 57.9,
+      "pace_zone_times_sec": [
+        1927,
+        3184,
+        362,
+        23,
+        2,
+        5,
+        3
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.13,
+          "avg_hr": 120,
+          "avg_cadence": 84,
+          "elevation_gain_m": 9.6
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 5.23,
+          "avg_hr": 127,
+          "avg_cadence": 83,
+          "elevation_gain_m": 26.6
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 5.23,
+          "avg_hr": 131,
+          "avg_cadence": 83,
+          "elevation_gain_m": 26.0
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 5.33,
+          "avg_hr": 128,
+          "avg_cadence": 83,
+          "elevation_gain_m": 35.0
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 5.53,
+          "avg_hr": 129,
+          "avg_cadence": 83,
+          "elevation_gain_m": 34.2
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 5.2,
+          "avg_hr": 134,
+          "avg_cadence": 84,
+          "elevation_gain_m": 29.4
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 5.47,
+          "avg_hr": 130,
+          "avg_cadence": 84,
+          "elevation_gain_m": 35.4
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 5.6,
+          "avg_hr": 130,
+          "avg_cadence": 85,
+          "elevation_gain_m": 60.2
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 5.68,
+          "avg_hr": 135,
+          "avg_cadence": 85,
+          "elevation_gain_m": 56.4
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 6.35,
+          "avg_hr": 133,
+          "avg_cadence": 84,
+          "elevation_gain_m": 27.4
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 5.37,
+          "avg_hr": 134,
+          "avg_cadence": 85,
+          "elevation_gain_m": 42.4
+        },
+        {
+          "km": 12,
+          "pace_min_per_km": 5.87,
+          "avg_hr": 130,
+          "avg_cadence": 85,
+          "elevation_gain_m": 38.4
+        },
+        {
+          "km": 13,
+          "pace_min_per_km": 5.22,
+          "avg_hr": 129,
+          "avg_cadence": 84,
+          "elevation_gain_m": 46.2
+        },
+        {
+          "km": 14,
+          "pace_min_per_km": 5.18,
+          "avg_hr": 130,
+          "avg_cadence": 85,
+          "elevation_gain_m": 65.4
+        },
+        {
+          "km": 15,
+          "pace_min_per_km": 4.93,
+          "avg_hr": 128,
+          "avg_cadence": 84,
+          "elevation_gain_m": 78.6
+        },
+        {
+          "km": 16,
+          "pace_min_per_km": 4.83,
+          "avg_hr": 130,
+          "avg_cadence": 84,
+          "elevation_gain_m": 48.0
+        },
+        {
+          "km": 17,
+          "pace_min_per_km": 7.95,
+          "avg_hr": 128,
+          "avg_cadence": 84,
+          "elevation_gain_m": 26.4
+        }
+      ]
+    },
+    {
+      "id": "i116606917",
+      "date": "2026-01-08",
+      "time": "12:16",
+      "type": "Run",
+      "name": "Lunchtime Lake Run \ud83c\udfc3\ud83c\udffc\u200d\u2642\ufe0f",
+      "description": "3min then (2min, 3min, 4min)x3\nAs per Coach D instructions \nWorkout meant to be last night but was too icy for me \u2744\ufe0f",
+      "distance_km": 15.32,
+      "moving_time_min": 76.6,
+      "elapsed_time_min": 80.5,
+      "avg_pace_min_per_km": 5.0,
+      "avg_speed_kmh": 11.9,
+      "max_speed_kmh": 15.9,
+      "gap_pace": 3.2491462,
+      "avg_hr": 144,
+      "max_hr": 167,
+      "hr_zone_times_sec": [
+        1552,
+        1071,
+        1233,
+        714,
+        20,
+        0,
+        0
+      ],
+      "avg_cadence": 83.0,
+      "elevation_gain_m": 162,
+      "elevation_loss_m": 162,
+      "training_load": 80,
+      "trimp": 118.5,
+      "calories": 1052,
+      "ctl_fitness": 51.8,
+      "atl_fatigue": 56.6,
+      "pace_zone_times_sec": [
+        1857,
+        1695,
+        677,
+        292,
+        61,
+        24,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.4,
+          "avg_hr": 125,
+          "avg_cadence": 84,
+          "elevation_gain_m": 42.2
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 5.08,
+          "avg_hr": 136,
+          "avg_cadence": 83,
+          "elevation_gain_m": 37.6
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 6.4,
+          "avg_hr": 135,
+          "avg_cadence": 82,
+          "elevation_gain_m": 24.6
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.72,
+          "avg_hr": 149,
+          "avg_cadence": 83,
+          "elevation_gain_m": 21.4
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 4.8,
+          "avg_hr": 154,
+          "avg_cadence": 83,
+          "elevation_gain_m": 28.8
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.87,
+          "avg_hr": 155,
+          "avg_cadence": 83,
+          "elevation_gain_m": 22.0
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 5.97,
+          "avg_hr": 146,
+          "avg_cadence": 83,
+          "elevation_gain_m": 32.8
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 4.62,
+          "avg_hr": 152,
+          "avg_cadence": 83,
+          "elevation_gain_m": 23.4
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 4.82,
+          "avg_hr": 153,
+          "avg_cadence": 83,
+          "elevation_gain_m": 30.2
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 4.72,
+          "avg_hr": 148,
+          "avg_cadence": 83,
+          "elevation_gain_m": 20.8
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 4.78,
+          "avg_hr": 152,
+          "avg_cadence": 83,
+          "elevation_gain_m": 23.0
+        },
+        {
+          "km": 12,
+          "pace_min_per_km": 6.77,
+          "avg_hr": 140,
+          "avg_cadence": 83,
+          "elevation_gain_m": 22.6
+        },
+        {
+          "km": 13,
+          "pace_min_per_km": 5.2,
+          "avg_hr": 139,
+          "avg_cadence": 83,
+          "elevation_gain_m": 30.6
+        },
+        {
+          "km": 14,
+          "pace_min_per_km": 5.13,
+          "avg_hr": 138,
+          "avg_cadence": 83,
+          "elevation_gain_m": 20.6
+        },
+        {
+          "km": 15,
+          "pace_min_per_km": 5.7,
+          "avg_hr": 141,
+          "avg_cadence": 84,
+          "elevation_gain_m": 27.6
+        }
+      ]
+    },
+    {
+      "id": "i116487334",
+      "date": "2026-01-07",
+      "time": "20:22",
+      "type": "VirtualRide",
+      "name": "Z2 Ride",
+      "distance_km": 34.73,
+      "moving_time_min": 60.3,
+      "elapsed_time_min": 60.3,
+      "avg_pace_min_per_km": 1.74,
+      "avg_speed_kmh": 34.5,
+      "max_speed_kmh": 49.2,
+      "avg_hr": 132,
+      "max_hr": 155,
+      "hr_zone_times_sec": [
+        1790,
+        1086,
+        743,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.4,
+      "elevation_gain_m": 163,
+      "elevation_loss_m": 0,
+      "training_load": 46,
+      "trimp": 67.3,
+      "calories": 670,
+      "ctl_fitness": 51.1,
+      "atl_fatigue": 53.0,
+      "device": "ZWIFT 4\u007f",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i116275413",
+      "date": "2026-01-06",
+      "time": "19:28",
+      "type": "VirtualRide",
+      "name": "Z2 Ride",
+      "description": "Too many mince pies and not enough brussel sprouts last few weeks",
+      "distance_km": 36.14,
+      "moving_time_min": 56.0,
+      "elapsed_time_min": 56.0,
+      "avg_pace_min_per_km": 1.55,
+      "avg_speed_kmh": 38.7,
+      "max_speed_kmh": 63.1,
+      "avg_hr": 146,
+      "max_hr": 177,
+      "hr_zone_times_sec": [
+        234,
+        1947,
+        782,
+        344,
+        26,
+        23,
+        6
+      ],
+      "avg_cadence": 75.3,
+      "elevation_gain_m": 271,
+      "elevation_loss_m": 0,
+      "training_load": 58,
+      "trimp": 89.6,
+      "calories": 772,
+      "ctl_fitness": 51.3,
+      "atl_fatigue": 54.1,
+      "device": "ZWIFT 0\b\u04b2\u007f",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i116029585",
+      "date": "2026-01-05",
+      "time": "19:48",
+      "type": "Run",
+      "name": "Run halfway home",
+      "distance_km": 12.52,
+      "moving_time_min": 60.0,
+      "elapsed_time_min": 65.8,
+      "avg_pace_min_per_km": 4.8,
+      "avg_speed_kmh": 12.2,
+      "max_speed_kmh": 18.5,
+      "gap_pace": 3.4950192,
+      "avg_hr": 129,
+      "max_hr": 157,
+      "hr_zone_times_sec": [
+        3305,
+        100,
+        116,
+        12,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 82.7,
+      "elevation_gain_m": 212.0,
+      "elevation_loss_m": 204.0,
+      "training_load": 42,
+      "trimp": 61.9,
+      "calories": 793,
+      "ctl_fitness": 51.1,
+      "atl_fatigue": 53.5,
+      "pace_zone_times_sec": [
+        726,
+        1756,
+        984,
+        69,
+        17,
+        9,
+        2
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.33,
+          "avg_hr": 123,
+          "avg_cadence": 83,
+          "elevation_gain_m": 149.8
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 4.72,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 53.0
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 5.22,
+          "avg_hr": 130,
+          "avg_cadence": 82,
+          "elevation_gain_m": 49.6
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.68,
+          "avg_hr": 133,
+          "avg_cadence": 82,
+          "elevation_gain_m": 53.4
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 4.93,
+          "avg_hr": 131,
+          "avg_cadence": 82,
+          "elevation_gain_m": 33.2
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.82,
+          "avg_hr": 133,
+          "avg_cadence": 83,
+          "elevation_gain_m": 33.2
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 6.93,
+          "avg_hr": 131,
+          "avg_cadence": 83,
+          "elevation_gain_m": 27.8
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 6.05,
+          "avg_hr": 127,
+          "avg_cadence": 83,
+          "elevation_gain_m": 44.6
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 5.33,
+          "avg_hr": 143,
+          "avg_cadence": 83,
+          "elevation_gain_m": 54.6
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 4.97,
+          "avg_hr": 126,
+          "avg_cadence": 82,
+          "elevation_gain_m": 23.0
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 6.42,
+          "avg_hr": 122,
+          "avg_cadence": 83,
+          "elevation_gain_m": 49.6
+        },
+        {
+          "km": 12,
+          "pace_min_per_km": 5.98,
+          "avg_hr": 116,
+          "avg_cadence": 82,
+          "elevation_gain_m": 47.8
+        }
+      ]
+    },
+    {
+      "id": "i115671536",
+      "date": "2026-01-04",
+      "time": "11:00",
+      "type": "Run",
+      "name": "XC Minnis Bay",
+      "distance_km": 9.52,
+      "moving_time_min": 40.0,
+      "elapsed_time_min": 40.0,
+      "avg_pace_min_per_km": 4.2,
+      "avg_speed_kmh": 14.3,
+      "max_speed_kmh": 17.7,
+      "gap_pace": 3.9735522,
+      "avg_hr": 167,
+      "max_hr": 176,
+      "hr_zone_times_sec": [
+        12,
+        6,
+        20,
+        204,
+        1025,
+        1067,
+        63
+      ],
+      "avg_cadence": 84.9,
+      "elevation_gain_m": 34,
+      "elevation_loss_m": 34,
+      "training_load": 71,
+      "trimp": 107.9,
+      "calories": 659,
+      "ctl_fitness": 51.3,
+      "atl_fatigue": 55.3,
+      "pace_zone_times_sec": [
+        10,
+        39,
+        194,
+        1524,
+        311,
+        203,
+        116
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 3.97,
+          "avg_hr": 161,
+          "avg_cadence": 87,
+          "elevation_gain_m": 13.2
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 4.22,
+          "avg_hr": 168,
+          "avg_cadence": 86,
+          "elevation_gain_m": 17.0
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 4.28,
+          "avg_hr": 170,
+          "avg_cadence": 85,
+          "elevation_gain_m": 13.6
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.35,
+          "avg_hr": 170,
+          "avg_cadence": 85,
+          "elevation_gain_m": 11.0
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 4.28,
+          "avg_hr": 169,
+          "avg_cadence": 84,
+          "elevation_gain_m": 17.4
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.23,
+          "avg_hr": 167,
+          "avg_cadence": 84,
+          "elevation_gain_m": 24.0
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 4.28,
+          "avg_hr": 165,
+          "avg_cadence": 84,
+          "elevation_gain_m": 14.6
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 4.38,
+          "avg_hr": 165,
+          "avg_cadence": 84,
+          "elevation_gain_m": 13.4
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 4.2,
+          "avg_hr": 168,
+          "avg_cadence": 84,
+          "elevation_gain_m": 12.4
+        }
+      ]
+    },
+    {
+      "id": "i115671452",
+      "date": "2026-01-04",
+      "time": "10:40",
+      "type": "Run",
+      "name": "Warm up",
+      "distance_km": 1.91,
+      "moving_time_min": 10.5,
+      "elapsed_time_min": 17.9,
+      "avg_pace_min_per_km": 5.51,
+      "avg_speed_kmh": 10.9,
+      "max_speed_kmh": 13.8,
+      "gap_pace": 3.0462353,
+      "avg_hr": 138,
+      "max_hr": 150,
+      "hr_zone_times_sec": [
+        185,
+        401,
+        41,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.3,
+      "elevation_gain_m": 14,
+      "elevation_loss_m": 16,
+      "training_load": 10,
+      "trimp": 14.6,
+      "calories": 141,
+      "ctl_fitness": 51.3,
+      "atl_fatigue": 55.3,
+      "pace_zone_times_sec": [
+        346,
+        286,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.58,
+          "avg_hr": 135,
+          "avg_cadence": 84,
+          "elevation_gain_m": 21.6
+        }
+      ]
+    },
+    {
+      "id": "i115267824",
+      "date": "2026-01-02",
+      "time": "11:41",
+      "type": "Run",
+      "name": "Canal With Jamie",
+      "description": "... and then back up Hollins Hill",
+      "distance_km": 17.01,
+      "moving_time_min": 89.8,
+      "elapsed_time_min": 108.0,
+      "avg_pace_min_per_km": 5.28,
+      "avg_speed_kmh": 11.3,
+      "max_speed_kmh": 13.6,
+      "gap_pace": 3.2270718,
+      "avg_hr": 133,
+      "max_hr": 163,
+      "hr_zone_times_sec": [
+        4161,
+        635,
+        377,
+        218,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.2,
+      "elevation_gain_m": 278,
+      "elevation_loss_m": 196,
+      "training_load": 72,
+      "trimp": 106.4,
+      "calories": 1151,
+      "ctl_fitness": 51.8,
+      "atl_fatigue": 59.2,
+      "pace_zone_times_sec": [
+        2553,
+        2651,
+        209,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.63,
+          "avg_hr": 118,
+          "avg_cadence": 84,
+          "elevation_gain_m": 35.0
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 5.37,
+          "avg_hr": 127,
+          "avg_cadence": 83,
+          "elevation_gain_m": 27.6
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 5.43,
+          "avg_hr": 131,
+          "avg_cadence": 83,
+          "elevation_gain_m": 29.0
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 5.38,
+          "avg_hr": 133,
+          "avg_cadence": 83,
+          "elevation_gain_m": 40.2
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 5.33,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 22.6
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 5.25,
+          "avg_hr": 136,
+          "avg_cadence": 83,
+          "elevation_gain_m": 31.8
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 8.3,
+          "avg_hr": 133,
+          "avg_cadence": 82,
+          "elevation_gain_m": 35.2
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 5.33,
+          "avg_hr": 124,
+          "avg_cadence": 83,
+          "elevation_gain_m": 15.6
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 9.72,
+          "avg_hr": 126,
+          "avg_cadence": 83,
+          "elevation_gain_m": 32.8
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 5.43,
+          "avg_hr": 123,
+          "avg_cadence": 83,
+          "elevation_gain_m": 18.0
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 5.28,
+          "avg_hr": 128,
+          "avg_cadence": 83,
+          "elevation_gain_m": 25.8
+        },
+        {
+          "km": 12,
+          "pace_min_per_km": 15.7,
+          "avg_hr": 124,
+          "avg_cadence": 84,
+          "elevation_gain_m": 34.0
+        },
+        {
+          "km": 13,
+          "pace_min_per_km": 5.12,
+          "avg_hr": 132,
+          "avg_cadence": 83,
+          "elevation_gain_m": 27.4
+        },
+        {
+          "km": 14,
+          "pace_min_per_km": 5.2,
+          "avg_hr": 147,
+          "avg_cadence": 85,
+          "elevation_gain_m": 43.2
+        },
+        {
+          "km": 15,
+          "pace_min_per_km": 5.6,
+          "avg_hr": 157,
+          "avg_cadence": 84,
+          "elevation_gain_m": 67.8
+        },
+        {
+          "km": 16,
+          "pace_min_per_km": 4.83,
+          "avg_hr": 142,
+          "avg_cadence": 83,
+          "elevation_gain_m": 14.0
+        },
+        {
+          "km": 17,
+          "pace_min_per_km": 5.05,
+          "avg_hr": 145,
+          "avg_cadence": 84,
+          "elevation_gain_m": 28.8
+        }
+      ]
+    },
+    {
+      "id": "i115064302",
+      "date": "2026-01-01",
+      "time": "13:36",
+      "type": "Ride",
+      "name": "Z2 Ride",
+      "distance_km": 33.84,
+      "moving_time_min": 97.5,
+      "elapsed_time_min": 102.2,
+      "avg_pace_min_per_km": 2.88,
+      "avg_speed_kmh": 20.8,
+      "max_speed_kmh": 48.4,
+      "avg_hr": 133,
+      "max_hr": 165,
+      "hr_zone_times_sec": [
+        2854,
+        2413,
+        383,
+        202,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 75.7,
+      "elevation_gain_m": 692,
+      "elevation_loss_m": 695,
+      "training_load": 76,
+      "trimp": 114.3,
+      "calories": 1177,
+      "ctl_fitness": 51.3,
+      "atl_fatigue": 57.3,
+      "device": "Garmin Edge 1040",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i114922341",
+      "date": "2025-12-31",
+      "time": "15:52",
+      "type": "Run",
+      "name": "Classic 10km route",
+      "description": "And a cracking end to my year of triathlon",
+      "distance_km": 10.36,
+      "moving_time_min": 48.9,
+      "elapsed_time_min": 48.9,
+      "avg_pace_min_per_km": 4.72,
+      "avg_speed_kmh": 12.7,
+      "max_speed_kmh": 14.3,
+      "gap_pace": 3.572631,
+      "avg_hr": 138,
+      "max_hr": 156,
+      "hr_zone_times_sec": [
+        1221,
+        1190,
+        521,
+        2,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.2,
+      "elevation_gain_m": 130,
+      "elevation_loss_m": 130,
+      "training_load": 44,
+      "trimp": 65.1,
+      "calories": 677,
+      "ctl_fitness": 50.7,
+      "atl_fatigue": 54.4,
+      "pace_zone_times_sec": [
+        109,
+        1026,
+        1696,
+        103,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 4.78,
+          "avg_hr": 121,
+          "avg_cadence": 84,
+          "elevation_gain_m": 15.4
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 4.65,
+          "avg_hr": 123,
+          "avg_cadence": 82,
+          "elevation_gain_m": 12.8
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 4.52,
+          "avg_hr": 123,
+          "avg_cadence": 82,
+          "elevation_gain_m": 8.8
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.62,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 21.8
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 4.55,
+          "avg_hr": 138,
+          "avg_cadence": 83,
+          "elevation_gain_m": 20.8
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.68,
+          "avg_hr": 146,
+          "avg_cadence": 84,
+          "elevation_gain_m": 18.0
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 4.68,
+          "avg_hr": 148,
+          "avg_cadence": 84,
+          "elevation_gain_m": 22.6
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 4.88,
+          "avg_hr": 146,
+          "avg_cadence": 84,
+          "elevation_gain_m": 38.0
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 4.95,
+          "avg_hr": 146,
+          "avg_cadence": 84,
+          "elevation_gain_m": 40.0
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 4.87,
+          "avg_hr": 148,
+          "avg_cadence": 84,
+          "elevation_gain_m": 40.8
+        }
+      ]
+    },
+    {
+      "id": "i114709940",
+      "date": "2025-12-30",
+      "time": "17:31",
+      "type": "Run",
+      "name": "6x1km off 90s",
+      "description": "It\u2019s cold out there lads",
+      "distance_km": 12.64,
+      "moving_time_min": 59.9,
+      "elapsed_time_min": 59.9,
+      "avg_pace_min_per_km": 4.73,
+      "avg_speed_kmh": 12.7,
+      "max_speed_kmh": 16.5,
+      "gap_pace": 3.586352,
+      "avg_hr": 143,
+      "max_hr": 169,
+      "hr_zone_times_sec": [
+        1395,
+        576,
+        721,
+        843,
+        52,
+        2,
+        0
+      ],
+      "avg_cadence": 83.9,
+      "elevation_gain_m": 164,
+      "elevation_loss_m": 150,
+      "training_load": 63,
+      "trimp": 91.9,
+      "calories": 848,
+      "ctl_fitness": 50.9,
+      "atl_fatigue": 56.0,
+      "pace_zone_times_sec": [
+        923,
+        1164,
+        177,
+        432,
+        300,
+        548,
+        45
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.52,
+          "avg_hr": 123,
+          "avg_cadence": 84,
+          "elevation_gain_m": 26.0
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 5.37,
+          "avg_hr": 129,
+          "avg_cadence": 84,
+          "elevation_gain_m": 28.4
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 5.0,
+          "avg_hr": 135,
+          "avg_cadence": 83,
+          "elevation_gain_m": 25.4
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.1,
+          "avg_hr": 149,
+          "avg_cadence": 84,
+          "elevation_gain_m": 12.0
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 4.48,
+          "avg_hr": 150,
+          "avg_cadence": 84,
+          "elevation_gain_m": 17.0
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.48,
+          "avg_hr": 152,
+          "avg_cadence": 84,
+          "elevation_gain_m": 32.8
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 4.6,
+          "avg_hr": 153,
+          "avg_cadence": 84,
+          "elevation_gain_m": 17.6
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 4.38,
+          "avg_hr": 156,
+          "avg_cadence": 84,
+          "elevation_gain_m": 28.2
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 4.08,
+          "avg_hr": 155,
+          "avg_cadence": 84,
+          "elevation_gain_m": 31.6
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 4.38,
+          "avg_hr": 155,
+          "avg_cadence": 84,
+          "elevation_gain_m": 16.2
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 4.8,
+          "avg_hr": 149,
+          "avg_cadence": 85,
+          "elevation_gain_m": 30.2
+        },
+        {
+          "km": 12,
+          "pace_min_per_km": 5.28,
+          "avg_hr": 137,
+          "avg_cadence": 84,
+          "elevation_gain_m": 33.6
+        }
+      ]
+    },
+    {
+      "id": "i114687042",
+      "date": "2025-12-30",
+      "time": "16:09",
+      "type": "Run",
+      "name": "To gym",
+      "distance_km": 1.66,
+      "moving_time_min": 8.7,
+      "elapsed_time_min": 8.7,
+      "avg_pace_min_per_km": 5.2,
+      "avg_speed_kmh": 11.5,
+      "max_speed_kmh": 13.8,
+      "gap_pace": 3.1455045,
+      "avg_hr": 129,
+      "max_hr": 143,
+      "hr_zone_times_sec": [
+        451,
+        68,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 83.5,
+      "elevation_gain_m": 10,
+      "elevation_loss_m": 24,
+      "training_load": 6,
+      "trimp": 9.3,
+      "calories": 112,
+      "ctl_fitness": 50.9,
+      "atl_fatigue": 56.0,
+      "pace_zone_times_sec": [
+        105,
+        372,
+        43,
+        3,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 5.0,
+          "avg_hr": 127,
+          "avg_cadence": 84,
+          "elevation_gain_m": 31.0
+        }
+      ]
+    },
+    {
+      "id": "i114473724",
+      "date": "2025-12-29",
+      "time": "12:21",
+      "type": "Ride",
+      "name": "Cows and sheep and hills",
+      "distance_km": 36.25,
+      "moving_time_min": 95.4,
+      "elapsed_time_min": 96.8,
+      "avg_pace_min_per_km": 2.63,
+      "avg_speed_kmh": 22.8,
+      "max_speed_kmh": 58.0,
+      "avg_hr": 130,
+      "max_hr": 166,
+      "hr_zone_times_sec": [
+        3641,
+        1619,
+        204,
+        260,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 72.0,
+      "elevation_gain_m": 734,
+      "elevation_loss_m": 731,
+      "training_load": 70,
+      "trimp": 106.8,
+      "calories": 1169,
+      "ctl_fitness": 50.5,
+      "atl_fatigue": 54.0,
+      "device": "Garmin Edge 1040",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i114281590",
+      "date": "2025-12-28",
+      "time": "11:26",
+      "type": "Run",
+      "name": "Coniston Old Man \u26f0\ufe0f",
+      "description": "Beautiful \ud83d\ude3b",
+      "distance_km": 11.18,
+      "moving_time_min": 100.4,
+      "elapsed_time_min": 108.9,
+      "avg_pace_min_per_km": 8.98,
+      "avg_speed_kmh": 6.4,
+      "max_speed_kmh": 13.6,
+      "gap_pace": 2.6072626,
+      "avg_hr": 134,
+      "max_hr": 170,
+      "hr_zone_times_sec": [
+        2962,
+        815,
+        1740,
+        297,
+        21,
+        5,
+        0
+      ],
+      "avg_cadence": 70.4,
+      "elevation_gain_m": 796.0,
+      "elevation_loss_m": 797.0,
+      "training_load": 86,
+      "trimp": 126.9,
+      "calories": 1088,
+      "ctl_fitness": 50.0,
+      "atl_fatigue": 51.5,
+      "pace_zone_times_sec": [
+        5196,
+        555,
+        215,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 6.22,
+          "avg_hr": 143,
+          "avg_cadence": 85,
+          "elevation_gain_m": 73.8
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 10.85,
+          "avg_hr": 149,
+          "avg_cadence": 73,
+          "elevation_gain_m": 159.4
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 12.37,
+          "avg_hr": 149,
+          "avg_cadence": 59,
+          "elevation_gain_m": 187.4
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 15.78,
+          "avg_hr": 149,
+          "avg_cadence": 56,
+          "elevation_gain_m": 240.4
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 14.72,
+          "avg_hr": 142,
+          "avg_cadence": 65,
+          "elevation_gain_m": 153.0
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 14.97,
+          "avg_hr": 109,
+          "avg_cadence": 68,
+          "elevation_gain_m": 12.4
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 9.72,
+          "avg_hr": 118,
+          "avg_cadence": 77,
+          "elevation_gain_m": 34.2
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 7.88,
+          "avg_hr": 112,
+          "avg_cadence": 76,
+          "elevation_gain_m": 0.6
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 5.27,
+          "avg_hr": 134,
+          "avg_cadence": 83,
+          "elevation_gain_m": 12.0
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 4.95,
+          "avg_hr": 127,
+          "avg_cadence": 82,
+          "elevation_gain_m": 0.4
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 5.3,
+          "avg_hr": 127,
+          "avg_cadence": 84,
+          "elevation_gain_m": 0.2
+        }
+      ]
+    },
+    {
+      "id": "i113904271",
+      "date": "2025-12-26",
+      "time": "12:08",
+      "type": "Run",
+      "name": "Cool down \ud83c\udf84",
+      "distance_km": 0.55,
+      "moving_time_min": 3.4,
+      "elapsed_time_min": 3.5,
+      "avg_pace_min_per_km": 6.19,
+      "avg_speed_kmh": 9.5,
+      "max_speed_kmh": 11.2,
+      "gap_pace": 2.9687252,
+      "avg_hr": 125,
+      "max_hr": 133,
+      "hr_zone_times_sec": [
+        203,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 86.5,
+      "elevation_gain_m": 16,
+      "elevation_loss_m": 0,
+      "training_load": 2,
+      "trimp": 3.5,
+      "calories": 41,
+      "ctl_fitness": 50.3,
+      "atl_fatigue": 53.3,
+      "pace_zone_times_sec": [
+        203,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false
+    },
+    {
+      "id": "i113890747",
+      "date": "2025-12-26",
+      "time": "11:08",
+      "type": "Run",
+      "name": "Chevin Chase 2025 \ud83e\udd83",
+      "description": "I think personal best for this course",
+      "distance_km": 11.23,
+      "moving_time_min": 50.7,
+      "elapsed_time_min": 50.7,
+      "avg_pace_min_per_km": 4.51,
+      "avg_speed_kmh": 13.3,
+      "max_speed_kmh": 18.3,
+      "gap_pace": 3.8988183,
+      "avg_hr": 165,
+      "max_hr": 174,
+      "hr_zone_times_sec": [
+        14,
+        22,
+        160,
+        918,
+        943,
+        974,
+        9
+      ],
+      "avg_cadence": 85.3,
+      "elevation_gain_m": 319,
+      "elevation_loss_m": 337,
+      "training_load": 85,
+      "trimp": 131.5,
+      "calories": 818,
+      "ctl_fitness": 50.3,
+      "atl_fatigue": 53.3,
+      "pace_zone_times_sec": [
+        677,
+        594,
+        532,
+        443,
+        132,
+        336,
+        326
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 4.15,
+          "avg_hr": 159,
+          "avg_cadence": 88,
+          "elevation_gain_m": 35.2
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 4.72,
+          "avg_hr": 171,
+          "avg_cadence": 87,
+          "elevation_gain_m": 49.2
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 4.77,
+          "avg_hr": 166,
+          "avg_cadence": 85,
+          "elevation_gain_m": 36.8
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 4.37,
+          "avg_hr": 161,
+          "avg_cadence": 85,
+          "elevation_gain_m": 28.6
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 4.25,
+          "avg_hr": 164,
+          "avg_cadence": 85,
+          "elevation_gain_m": 14.6
+        },
+        {
+          "km": 6,
+          "pace_min_per_km": 4.33,
+          "avg_hr": 165,
+          "avg_cadence": 86,
+          "elevation_gain_m": 16.0
+        },
+        {
+          "km": 7,
+          "pace_min_per_km": 5.32,
+          "avg_hr": 168,
+          "avg_cadence": 86,
+          "elevation_gain_m": 70.8
+        },
+        {
+          "km": 8,
+          "pace_min_per_km": 5.97,
+          "avg_hr": 168,
+          "avg_cadence": 84,
+          "elevation_gain_m": 84.6
+        },
+        {
+          "km": 9,
+          "pace_min_per_km": 4.23,
+          "avg_hr": 166,
+          "avg_cadence": 85,
+          "elevation_gain_m": 18.0
+        },
+        {
+          "km": 10,
+          "pace_min_per_km": 4.2,
+          "avg_hr": 162,
+          "avg_cadence": 84,
+          "elevation_gain_m": 8.4
+        },
+        {
+          "km": 11,
+          "pace_min_per_km": 3.65,
+          "avg_hr": 161,
+          "avg_cadence": 84,
+          "elevation_gain_m": 5.2
+        }
+      ]
+    },
+    {
+      "id": "i113890656",
+      "date": "2025-12-26",
+      "time": "10:44",
+      "type": "Run",
+      "name": "Warm up",
+      "distance_km": 1.06,
+      "moving_time_min": 6.9,
+      "elapsed_time_min": 14.9,
+      "avg_pace_min_per_km": 6.51,
+      "avg_speed_kmh": 8.9,
+      "max_speed_kmh": 13.9,
+      "gap_pace": 2.7296214,
+      "avg_hr": 121,
+      "max_hr": 141,
+      "hr_zone_times_sec": [
+        381,
+        32,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 82.8,
+      "elevation_gain_m": 18,
+      "elevation_loss_m": 22,
+      "training_load": 4,
+      "trimp": 6.3,
+      "calories": 73,
+      "ctl_fitness": 50.3,
+      "atl_fatigue": 53.3,
+      "pace_zone_times_sec": [
+        416,
+        2,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 14.38,
+          "avg_hr": 121,
+          "avg_cadence": 83,
+          "elevation_gain_m": 13.6
+        }
+      ]
+    },
+    {
+      "id": "i113728469",
+      "date": "2025-12-25",
+      "time": "09:24",
+      "type": "Run",
+      "name": "Cool down \u26c4\ufe0f",
+      "distance_km": 1.65,
+      "moving_time_min": 8.8,
+      "elapsed_time_min": 8.8,
+      "avg_pace_min_per_km": 5.31,
+      "avg_speed_kmh": 11.3,
+      "max_speed_kmh": 13.2,
+      "gap_pace": 3.2573273,
+      "avg_hr": 136,
+      "max_hr": 148,
+      "hr_zone_times_sec": [
+        342,
+        161,
+        26,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 84.4,
+      "elevation_gain_m": 34,
+      "elevation_loss_m": 20,
+      "training_load": 8,
+      "trimp": 11.4,
+      "calories": 121,
+      "ctl_fitness": 49.3,
+      "atl_fatigue": 47.5,
+      "pace_zone_times_sec": [
+        261,
+        186,
+        82,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 4.93,
+          "avg_hr": 132,
+          "avg_cadence": 84,
+          "elevation_gain_m": 15.0
+        }
+      ]
+    },
+    {
+      "id": "i113710249",
+      "date": "2025-12-25",
+      "time": "09:02",
+      "type": "Run",
+      "name": "Bradford Running",
+      "distance_km": 5.03,
+      "moving_time_min": 19.7,
+      "elapsed_time_min": 19.8,
+      "avg_pace_min_per_km": 3.91,
+      "avg_speed_kmh": 15.3,
+      "max_speed_kmh": 17.5,
+      "gap_pace": 4.3888407,
+      "avg_hr": 163,
+      "max_hr": 177,
+      "hr_zone_times_sec": [
+        23,
+        14,
+        31,
+        629,
+        347,
+        87,
+        48
+      ],
+      "avg_cadence": 85.7,
+      "elevation_gain_m": 102,
+      "elevation_loss_m": 100,
+      "training_load": 32,
+      "trimp": 48.3,
+      "calories": 320,
+      "ctl_fitness": 49.3,
+      "atl_fatigue": 47.5,
+      "pace_zone_times_sec": [
+        10,
+        42,
+        120,
+        142,
+        93,
+        473,
+        299
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 3.82,
+          "avg_hr": 151,
+          "avg_cadence": 87,
+          "elevation_gain_m": 18.4
+        },
+        {
+          "km": 2,
+          "pace_min_per_km": 4.08,
+          "avg_hr": 162,
+          "avg_cadence": 86,
+          "elevation_gain_m": 31.8
+        },
+        {
+          "km": 3,
+          "pace_min_per_km": 3.93,
+          "avg_hr": 163,
+          "avg_cadence": 85,
+          "elevation_gain_m": 20.8
+        },
+        {
+          "km": 4,
+          "pace_min_per_km": 3.93,
+          "avg_hr": 165,
+          "avg_cadence": 85,
+          "elevation_gain_m": 22.4
+        },
+        {
+          "km": 5,
+          "pace_min_per_km": 3.88,
+          "avg_hr": 170,
+          "avg_cadence": 86,
+          "elevation_gain_m": 25.2
+        }
+      ]
+    },
+    {
+      "id": "i113707828",
+      "date": "2025-12-25",
+      "time": "08:47",
+      "type": "Run",
+      "name": "Warm up \ud83e\uddd1\ud83c\udffc\u200d\ud83c\udf84",
+      "distance_km": 1.2,
+      "moving_time_min": 7.2,
+      "elapsed_time_min": 8.5,
+      "avg_pace_min_per_km": 6.01,
+      "avg_speed_kmh": 9.5,
+      "max_speed_kmh": 13.6,
+      "gap_pace": 2.8308368,
+      "avg_hr": 122,
+      "max_hr": 144,
+      "hr_zone_times_sec": [
+        401,
+        27,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "avg_cadence": 82.1,
+      "elevation_gain_m": 18,
+      "elevation_loss_m": 30,
+      "training_load": 5,
+      "trimp": 6.5,
+      "calories": 79,
+      "ctl_fitness": 49.3,
+      "atl_fatigue": 47.5,
+      "pace_zone_times_sec": [
+        328,
+        70,
+        42,
+        0,
+        0,
+        0,
+        0
+      ],
+      "device": "Garmin Forerunner 55",
+      "is_race": false,
+      "is_commute": false,
+      "km_splits": [
+        {
+          "km": 1,
+          "pace_min_per_km": 7.58,
+          "avg_hr": 121,
+          "avg_cadence": 82,
+          "elevation_gain_m": 43.4
+        }
+      ]
+    }
+  ],
+  "wellness": [
+    {
+      "date": "2026-01-17",
+      "ctl_fitness": 54.2,
+      "atl_fatigue": 61.4,
+      "tsb_form": -7.2,
+      "ramp_rate": 1.94,
+      "training_load": 56,
+      "resting_hr": 50,
+      "sleep_hours": 8.9,
+      "steps": 293,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "ctl_fitness": 54.2,
+      "atl_fatigue": 62.3,
+      "tsb_form": -8.1,
+      "ramp_rate": 2.01,
+      "training_load": 64,
+      "resting_hr": 52,
+      "vo2max": 61,
+      "sleep_hours": 8.5,
+      "steps": 16597,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "ctl_fitness": 53.9,
+      "atl_fatigue": 62.0,
+      "tsb_form": -8.1,
+      "ramp_rate": 2.11,
+      "training_load": 38,
+      "resting_hr": 50,
+      "sleep_hours": 7.8,
+      "steps": 6325,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "ctl_fitness": 54.3,
+      "atl_fatigue": 65.7,
+      "tsb_form": -11.4,
+      "ramp_rate": 3.17,
+      "training_load": 91,
+      "resting_hr": 47,
+      "vo2max": 61,
+      "sleep_hours": 8.5,
+      "steps": 20694,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "ctl_fitness": 53.4,
+      "atl_fatigue": 61.8,
+      "tsb_form": -8.4,
+      "ramp_rate": 2.16,
+      "training_load": 81,
+      "resting_hr": 49,
+      "sleep_hours": 8.6,
+      "steps": 4816,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "ctl_fitness": 52.8,
+      "atl_fatigue": 58.9,
+      "tsb_form": -6.1,
+      "ramp_rate": 1.66,
+      "training_load": 52,
+      "resting_hr": 47,
+      "vo2max": 61,
+      "sleep_hours": 8.8,
+      "steps": 12433,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-11",
+      "ctl_fitness": 52.8,
+      "atl_fatigue": 59.9,
+      "tsb_form": -7.1,
+      "ramp_rate": 1.46,
+      "training_load": 74,
+      "resting_hr": 48,
+      "vo2max": 61,
+      "sleep_hours": 8.1,
+      "steps": 18222,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-10",
+      "ctl_fitness": 52.3,
+      "atl_fatigue": 57.8,
+      "tsb_form": -5.5,
+      "ramp_rate": 1.66,
+      "training_load": 57,
+      "resting_hr": 48,
+      "sleep_hours": 7.9,
+      "steps": 7242,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "ctl_fitness": 52.2,
+      "atl_fatigue": 57.9,
+      "tsb_form": -5.7,
+      "ramp_rate": 0.33,
+      "training_load": 66,
+      "resting_hr": 50,
+      "vo2max": 61,
+      "sleep_hours": 7.0,
+      "steps": 24524,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "ctl_fitness": 51.8,
+      "atl_fatigue": 56.6,
+      "tsb_form": -4.8,
+      "ramp_rate": 0.48,
+      "training_load": 80,
+      "resting_hr": 51,
+      "vo2max": 61,
+      "sleep_hours": 8.2,
+      "steps": 18188,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "ctl_fitness": 51.1,
+      "atl_fatigue": 53.0,
+      "tsb_form": -1.9,
+      "ramp_rate": 0.4,
+      "training_load": 46,
+      "resting_hr": 53,
+      "sleep_hours": 9.4,
+      "steps": 4432,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-06",
+      "ctl_fitness": 51.3,
+      "atl_fatigue": 54.1,
+      "tsb_form": -2.9,
+      "ramp_rate": 0.36,
+      "training_load": 58,
+      "resting_hr": 53,
+      "sleep_hours": 7.8,
+      "steps": 10734,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-05",
+      "ctl_fitness": 51.1,
+      "atl_fatigue": 53.5,
+      "tsb_form": -2.4,
+      "ramp_rate": 0.63,
+      "training_load": 42,
+      "resting_hr": 53,
+      "vo2max": 61,
+      "sleep_hours": 7.7,
+      "steps": 17151,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-04",
+      "ctl_fitness": 51.3,
+      "atl_fatigue": 55.3,
+      "tsb_form": -4.0,
+      "ramp_rate": 1.32,
+      "training_load": 81,
+      "resting_hr": 46,
+      "vo2max": 61,
+      "sleep_hours": 7.5,
+      "steps": 16697,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-03",
+      "ctl_fitness": 50.6,
+      "atl_fatigue": 51.3,
+      "tsb_form": -0.7,
+      "ramp_rate": 1.47,
+      "training_load": 0,
+      "resting_hr": 48,
+      "sleep_hours": 9.4,
+      "steps": 9064,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-02",
+      "ctl_fitness": 51.8,
+      "atl_fatigue": 59.2,
+      "tsb_form": -7.4,
+      "ramp_rate": 1.51,
+      "training_load": 72,
+      "resting_hr": 50,
+      "vo2max": 61,
+      "sleep_hours": 8.1,
+      "steps": 20853,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2026-01-01",
+      "ctl_fitness": 51.3,
+      "atl_fatigue": 57.3,
+      "tsb_form": -5.9,
+      "ramp_rate": 2.0,
+      "training_load": 76,
+      "resting_hr": 51,
+      "sleep_hours": 8.5,
+      "steps": 5701,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2025-12-31",
+      "ctl_fitness": 50.7,
+      "atl_fatigue": 54.4,
+      "tsb_form": -3.6,
+      "ramp_rate": 1.3,
+      "training_load": 44,
+      "resting_hr": 51,
+      "vo2max": 61,
+      "sleep_hours": 8.9,
+      "steps": 14071,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "ctl_fitness": 50.9,
+      "atl_fatigue": 56.0,
+      "tsb_form": -5.1,
+      "ramp_rate": 1.43,
+      "training_load": 69,
+      "resting_hr": 49,
+      "vo2max": 61,
+      "sleep_hours": 9.8,
+      "steps": 17449,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2025-12-29",
+      "ctl_fitness": 50.5,
+      "atl_fatigue": 54.0,
+      "tsb_form": -3.5,
+      "ramp_rate": 1.56,
+      "training_load": 70,
+      "resting_hr": 48,
+      "sleep_hours": 8.0,
+      "steps": 5334,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2025-12-28",
+      "ctl_fitness": 50.0,
+      "atl_fatigue": 51.5,
+      "tsb_form": -1.5,
+      "ramp_rate": 0.97,
+      "training_load": 86,
+      "resting_hr": 46,
+      "vo2max": 61,
+      "sleep_hours": 8.9,
+      "steps": 22823,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2025-12-27",
+      "ctl_fitness": 49.1,
+      "atl_fatigue": 46.2,
+      "tsb_form": 2.9,
+      "ramp_rate": -1.08,
+      "training_load": 0,
+      "resting_hr": 46,
+      "sleep_hours": 8.3,
+      "steps": 10019,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.51035,
+          "wPrime": 20192.486,
+          "pMax": 1001.08154
+        }
+      ]
+    },
+    {
+      "date": "2025-12-26",
+      "ctl_fitness": 50.3,
+      "atl_fatigue": 53.3,
+      "tsb_form": -3.0,
+      "ramp_rate": 0.68,
+      "training_load": 91,
+      "resting_hr": 45,
+      "vo2max": 61,
+      "sleep_hours": 7.6,
+      "steps": 22621,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.76111,
+          "wPrime": 20212.7,
+          "pMax": 1002.0836
+        }
+      ]
+    },
+    {
+      "date": "2025-12-25",
+      "ctl_fitness": 49.3,
+      "atl_fatigue": 47.5,
+      "tsb_form": 1.8,
+      "ramp_rate": -1.49,
+      "training_load": 45,
+      "resting_hr": 48,
+      "vo2max": 61,
+      "sleep_hours": 7.8,
+      "steps": 16802,
+      "sport_info": [
+        {
+          "type": "Ride",
+          "eftp": 250.76111,
+          "wPrime": 20212.7,
+          "pMax": 1002.0836
+        }
+      ]
+    }
+  ],
+  "planned_workouts": [
+    {
+      "id": 78488486,
+      "date": "2025-12-25",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "Christmas Parkrun",
+      "description": "- 5km Z5 Pace",
+      "planned_distance_km": 5.0,
+      "planned_duration_min": 20.5,
+      "planned_load": 35,
+      "completed": true,
+      "paired_activity_id": "i113710249"
+    },
+    {
+      "id": 78315397,
+      "date": "2025-12-26",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "Chevin Chase",
+      "description": "- 40m Z4 pace",
+      "planned_distance_km": 9.33,
+      "planned_duration_min": 40.0,
+      "planned_load": 63,
+      "completed": true,
+      "paired_activity_id": "i113890747"
+    },
+    {
+      "id": 78489121,
+      "date": "2025-12-27",
+      "type": "WeightTraining",
+      "category": "WORKOUT",
+      "name": "Leg Day",
+      "planned_duration_min": 45.0,
+      "completed": false
+    },
+    {
+      "id": 78489269,
+      "date": "2025-12-27",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 2h Z2 HR",
+      "planned_duration_min": 120.0,
+      "planned_load": 112,
+      "completed": false
+    },
+    {
+      "id": 78489419,
+      "date": "2025-12-28",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "Trail Run",
+      "description": "- 90m Z2 HR",
+      "planned_duration_min": 90.0,
+      "planned_load": 91,
+      "completed": true,
+      "paired_activity_id": "i114281590"
+    },
+    {
+      "id": 85841720,
+      "date": "2025-12-30",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "Intervals",
+      "description": "- 3km Z2 Pace\n\n6x \n-1km at 3:55-4:05 Pace\n- 90s Z1 pace\n\n- 2km Z2 pace",
+      "planned_distance_km": 12.51,
+      "planned_duration_min": 58.2,
+      "planned_load": 78,
+      "completed": true,
+      "paired_activity_id": "i114709940"
+    },
+    {
+      "id": 85834276,
+      "date": "2025-12-31",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "1h Easy",
+      "description": "- 1h at Z2 Pace",
+      "planned_distance_km": 11.89,
+      "planned_duration_min": 60.0,
+      "planned_load": 68,
+      "completed": true,
+      "paired_activity_id": "i114922341"
+    },
+    {
+      "id": 86123779,
+      "date": "2025-12-31",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "Track Closed",
+      "description": "The track is closed from 17/12 for 3 weeks",
+      "completed": false
+    },
+    {
+      "id": 78489122,
+      "date": "2026-01-01",
+      "type": "WeightTraining",
+      "category": "WORKOUT",
+      "name": "Leg Day",
+      "planned_duration_min": 45.0,
+      "completed": false
+    },
+    {
+      "id": 78489271,
+      "date": "2026-01-01",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 1h Z2 HR",
+      "planned_duration_min": 60.0,
+      "planned_load": 56,
+      "completed": true,
+      "paired_activity_id": "i115064302"
+    },
+    {
+      "id": 85834435,
+      "date": "2026-01-02",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "5km Park Run",
+      "description": "- 5km at Z5 pace ",
+      "planned_distance_km": 5.0,
+      "planned_duration_min": 20.5,
+      "planned_load": 35,
+      "completed": true,
+      "paired_activity_id": "i115267824"
+    },
+    {
+      "id": 78489420,
+      "date": "2026-01-04",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "XC",
+      "description": "- 9km Z5 HR",
+      "planned_distance_km": 9.0,
+      "planned_duration_min": 45.4,
+      "planned_load": 78,
+      "completed": true,
+      "paired_activity_id": "i115671536"
+    },
+    {
+      "id": 85834855,
+      "date": "2026-01-05",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "1h Easy",
+      "description": "- 1h at Z2 Pace",
+      "planned_distance_km": 11.89,
+      "planned_duration_min": 60.0,
+      "planned_load": 68,
+      "completed": true,
+      "paired_activity_id": "i116029585"
+    },
+    {
+      "id": 85834917,
+      "date": "2026-01-06",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 1h Z2 HR",
+      "planned_duration_min": 60.0,
+      "planned_load": 56,
+      "completed": true,
+      "paired_activity_id": "i116275413"
+    },
+    {
+      "id": 85834934,
+      "date": "2026-01-07",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 1h Z2 HR",
+      "planned_duration_min": 60.0,
+      "planned_load": 56,
+      "completed": true,
+      "paired_activity_id": "i116487334"
+    },
+    {
+      "id": 85834945,
+      "date": "2026-01-09",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "14km Steady",
+      "description": "- 14km 4:45-5:00 Pace",
+      "planned_distance_km": 14.0,
+      "planned_duration_min": 68.2,
+      "planned_load": 83,
+      "completed": true,
+      "paired_activity_id": "i116879445"
+    },
+    {
+      "id": 85835088,
+      "date": "2026-01-10",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 1h Z2 HR",
+      "planned_duration_min": 60.0,
+      "planned_load": 56,
+      "completed": true,
+      "paired_activity_id": "i116977920"
+    },
+    {
+      "id": 85834719,
+      "date": "2026-01-11",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "XC",
+      "description": "- 40m Z5 HR",
+      "planned_duration_min": 40.0,
+      "planned_load": 69,
+      "completed": true,
+      "paired_activity_id": "i117201655"
+    },
+    {
+      "id": 85841235,
+      "date": "2026-01-11",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "5km Cool Down",
+      "description": "- 5km Z2 pace",
+      "planned_distance_km": 5.0,
+      "planned_duration_min": 25.2,
+      "planned_load": 29,
+      "completed": true,
+      "paired_activity_id": "i117201673"
+    },
+    {
+      "id": 85841858,
+      "date": "2026-01-12",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "1h Easy",
+      "description": "- 1h at Z2 Pace",
+      "planned_distance_km": 11.89,
+      "planned_duration_min": 60.0,
+      "planned_load": 68,
+      "completed": true,
+      "paired_activity_id": "i117518699"
+    },
+    {
+      "id": 85835750,
+      "date": "2026-01-13",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 1h Z2 HR",
+      "planned_duration_min": 60.0,
+      "planned_load": 56,
+      "completed": true,
+      "paired_activity_id": "i117728513"
+    },
+    {
+      "id": 86123780,
+      "date": "2026-01-14",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "3, 3 x (2, 3, 4mins) all off 60s",
+      "description": "-4km z2 Pace\n\n-3m 99-102% Pace\n- Recover 1m z1 Pace\n\nSets 3x\n- 2m 99-102% Pace\n- Recover 1m z1 pace\n- 3m 99-102% Pace\n- Recover 1m z1 pace\n- 4m 99-102% Pace\n- Recover 1m z1 pace\n\n-4km z2 Pace\n\n\n",
+      "planned_distance_km": 16.91,
+      "planned_duration_min": 80.4,
+      "planned_load": 103,
+      "completed": true,
+      "paired_activity_id": "i117975155"
+    },
+    {
+      "id": 85835760,
+      "date": "2026-01-15",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 1h Z2 HR",
+      "planned_duration_min": 60.0,
+      "planned_load": 56,
+      "completed": true,
+      "paired_activity_id": "i118208602"
+    },
+    {
+      "id": 85835790,
+      "date": "2026-01-16",
+      "type": "Run",
+      "category": "WORKOUT",
+      "name": "16km Steady",
+      "description": "- 16km 4:45-5:00 Pace",
+      "planned_distance_km": 16.0,
+      "planned_duration_min": 78.0,
+      "planned_load": 95,
+      "completed": true,
+      "paired_activity_id": "i118414440"
+    },
+    {
+      "id": 85835800,
+      "date": "2026-01-17",
+      "type": "Ride",
+      "category": "WORKOUT",
+      "name": "Z2 Ride",
+      "description": "- 1h Z2 HR",
+      "planned_duration_min": 60.0,
+      "planned_load": 56,
+      "completed": false
+    }
+  ]
+}

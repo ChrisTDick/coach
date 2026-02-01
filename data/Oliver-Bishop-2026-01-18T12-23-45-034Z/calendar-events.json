@@ -1,0 +1,321 @@
+[
+  {
+    "id": 87445266,
+    "start_date_local": "2026-01-08T00:00:00",
+    "icu_training_load": 76,
+    "icu_atl": 70.75065,
+    "icu_ctl": 56.069427,
+    "type": "Ride",
+    "carbs_used": null,
+    "ss_p_max": 1.1398307,
+    "ss_w_prime": 10.25424,
+    "ss_cp": 85.824234,
+    "calendar_id": 1,
+    "uid": "980a2a07-c82f-40d8-8efe-75ceb624a058",
+    "athlete_id": "i408969",
+    "category": "WORKOUT",
+    "end_date_local": "2026-01-09T00:00:00",
+    "name": "8x 40/20s vo2max",
+    "description": "Warmup\n-7m ramp 40%-63%\n-5m at 65%\n-1m at 90%\n-45s at 95%\n-30s at 115%\n-30s at 130%\n-5m recovery at 50%\n\nmain set: 8x\n-40s at 125%\n-20s at 50%\n\n-4m30s at 50%\n\nmain set: 8x\n-40s at 125%\n-20s at 50%\n\n-4m30s at 50%\n\nmain set: 8x\n-40s at 125%\n-20s at 50%\n\n-4m30s at 50%\n\nCooldown\n- 3m  ramp 50%-30% ",
+    "indoor": null,
+    "color": "yellow",
+    "moving_time": 3615,
+    "icu_ftp": null,
+    "w_prime": null,
+    "p_max": null,
+    "atl_days": null,
+    "ctl_days": null,
+    "updated": "2026-01-07T17:08:30.577+00:00",
+    "not_on_fitness_chart": false,
+    "show_as_note": false,
+    "show_on_ctl_line": false,
+    "for_week": false,
+    "target": null,
+    "joules": 715785,
+    "joules_above_ftp": 67950,
+    "workout_doc": {
+      "steps": [
+        {
+          "ramp": true,
+          "power": {
+            "end": 63,
+            "start": 40,
+            "units": "%ftp"
+          },
+          "warmup": true,
+          "duration": 420
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 65
+          },
+          "duration": 300
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 90
+          },
+          "duration": 60
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 95
+          },
+          "duration": 45
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 115
+          },
+          "duration": 30
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 130
+          },
+          "duration": 30
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 50
+          },
+          "duration": 300
+        },
+        {
+          "reps": 8,
+          "text": "main set: 8x",
+          "steps": [
+            {
+              "power": {
+                "units": "%ftp",
+                "value": 125
+              },
+              "duration": 40
+            },
+            {
+              "power": {
+                "units": "%ftp",
+                "value": 50
+              },
+              "duration": 20
+            }
+          ],
+          "distance": 0,
+          "duration": 480
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 50
+          },
+          "duration": 270
+        },
+        {
+          "reps": 8,
+          "text": "main set: 8x",
+          "steps": [
+            {
+              "power": {
+                "units": "%ftp",
+                "value": 125
+              },
+              "duration": 40
+            },
+            {
+              "power": {
+                "units": "%ftp",
+                "value": 50
+              },
+              "duration": 20
+            }
+          ],
+          "distance": 0,
+          "duration": 480
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 50
+          },
+          "duration": 270
+        },
+        {
+          "reps": 8,
+          "text": "main set: 8x",
+          "steps": [
+            {
+              "power": {
+                "units": "%ftp",
+                "value": 125
+              },
+              "duration": 40
+            },
+            {
+              "power": {
+                "units": "%ftp",
+                "value": 50
+              },
+              "duration": 20
+            }
+          ],
+          "distance": 0,
+          "duration": 480
+        },
+        {
+          "power": {
+            "units": "%ftp",
+            "value": 50
+          },
+          "duration": 270
+        },
+        {
+          "ramp": true,
+          "power": {
+            "end": 30,
+            "start": 50,
+            "units": "%ftp"
+          },
+          "cooldown": true,
+          "duration": 180
+        }
+      ],
+      "locales": [],
+      "options": {},
+      "distance": 0,
+      "duration": 3615,
+      "zoneTimes": [
+        {
+          "id": "Z1",
+          "max": 55,
+          "name": "Z1",
+          "secs": 2045,
+          "zone": 1,
+          "color": "#009e80",
+          "maxWatts": 154,
+          "minWatts": 1,
+          "percentRange": "0% - 55%"
+        },
+        {
+          "id": "Z2",
+          "max": 75,
+          "name": "Z2",
+          "secs": 445,
+          "zone": 2,
+          "color": "#009e00",
+          "maxWatts": 210,
+          "minWatts": 155,
+          "percentRange": "56% - 75%"
+        },
+        {
+          "id": "Z3",
+          "max": 90,
+          "name": "Z3",
+          "secs": 60,
+          "zone": 3,
+          "color": "#ffcb0e",
+          "maxWatts": 252,
+          "minWatts": 211,
+          "percentRange": "76% - 90%"
+        },
+        {
+          "id": "Z4",
+          "max": 105,
+          "name": "Z4",
+          "secs": 45,
+          "zone": 4,
+          "color": "#ff7f0e",
+          "maxWatts": 294,
+          "minWatts": 253,
+          "percentRange": "91% - 105%"
+        },
+        {
+          "id": "Z5",
+          "max": 120,
+          "name": "Z5",
+          "secs": 30,
+          "zone": 5,
+          "color": "#dd0447",
+          "maxWatts": 336,
+          "minWatts": 295,
+          "percentRange": "106% - 120%"
+        },
+        {
+          "id": "Z6",
+          "max": 150,
+          "name": "Z6",
+          "secs": 990,
+          "zone": 6,
+          "color": "#6633cc",
+          "maxWatts": 420,
+          "minWatts": 337,
+          "percentRange": "121% - 150%"
+        },
+        {
+          "id": "Z7",
+          "max": 999,
+          "name": "Z7",
+          "secs": 0,
+          "zone": 7,
+          "color": "#504861",
+          "maxWatts": 9999,
+          "minWatts": 421,
+          "percentRange": "151% +"
+        },
+        {
+          "id": "SS",
+          "gap": true,
+          "max": 97,
+          "min": 84,
+          "name": "Sweet Spot",
+          "secs": 105,
+          "zone": 8,
+          "color": "#ffa00e",
+          "maxWatts": 271,
+          "minWatts": 235,
+          "percentRange": "84% - 97%"
+        }
+      ],
+      "strain_score": {
+        "ss_cp": 85.82423270228718,
+        "ss_p_max": 1.139830731699813,
+        "ss_w_prime": 10.254240052887726,
+        "strain_score": 97.21830348687472
+      },
+      "average_watts": 205,
+      "normalized_power": 244,
+      "variability_index": 1.1902439024390243,
+      "polarization_index": 2.83
+    },
+    "push_errors": null,
+    "athlete_cannot_edit": false,
+    "hide_from_athlete": false,
+    "structure_read_only": false,
+    "created_by_id": "i238425",
+    "shared_event_id": null,
+    "entered": false,
+    "carbs_per_hour": null,
+    "sub_type": null,
+    "distance": 0,
+    "tags": null,
+    "attachments": null,
+    "oauth_client_id": null,
+    "external_id": null,
+    "load_target": null,
+    "time_target": null,
+    "distance_target": null,
+    "plan_athlete_id": null,
+    "plan_folder_id": null,
+    "plan_workout_id": null,
+    "plan_applied": null,
+    "icu_intensity": 86.996925,
+    "strain_score": 97.21831,
+    "plan_name": null,
+    "paired_activity_id": "i116524663"
+  }
+]

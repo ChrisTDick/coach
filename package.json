@@ -1,0 +1,22 @@
+{
+  "name": "intervals-icu-connector",
+  "version": "1.0.0",
+  "description": "Simple connector for intervals.icu API",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node src/test.ts",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["intervals.icu", "training", "coaching"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}
