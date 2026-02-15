@@ -18,7 +18,7 @@ function readStdin(): Promise<string> {
   });
 }
 
-function parseInput(args: string[], stdin: string): any {
+function parseInput(args: string[], stdin?: string): any {
   const jsonFlagIndex = args.indexOf('--json');
   if (jsonFlagIndex !== -1 && args[jsonFlagIndex + 1]) {
     return JSON.parse(args[jsonFlagIndex + 1]);
@@ -55,8 +55,13 @@ async function main() {
   }
 
   try {
-    const stdin = await readStdin();
-    const input = parseInput(args, stdin);
+    let input: any = {};
+    if (args.includes('--json')) {
+      input = parseInput(args);
+    } else {
+      const stdin = await readStdin();
+      input = parseInput(args, stdin);
+    }
     const config = loadConfig();
     const client = new IntervalsClient(config);
 
