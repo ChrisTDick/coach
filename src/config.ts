@@ -1,12 +1,32 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
+function loadEnvFile(filePath: string): void {
+  if (!fs.existsSync(filePath)) return;
+  const raw = fs.readFileSync(filePath, 'utf-8');
+  for (const line of raw.split('\n')) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith('#')) continue;
+    const eq = trimmed.indexOf('=');
+    if (eq === -1) continue;
+    const key = trimmed.slice(0, eq).trim();
+    const value = trimmed.slice(eq + 1).trim();
+    if (!process.env[key]) {
+      process.env[key] = value;
+    }
+  }
+}
+
 export interface IntervalsConfig {
   apiKey: string;
   baseUrl?: string;
 }
 
 export function loadConfig(): IntervalsConfig {
+  const envFile =
+    process.env.OPENCLAW_ENV_FILE || '/etc/openclaw/openclaw.env';
+  loadEnvFile(envFile);
+
   const envApiKey = process.env.INTERVALS_ICU_API_KEY;
   const envBaseUrl = process.env.INTERVALS_ICU_BASE_URL;
 
