@@ -1,5 +1,4 @@
 import * as fs from 'fs';
-import * as os from 'os';
 import * as path from 'path';
 
 function loadEnvFile(filePath: string): void {
@@ -36,29 +35,6 @@ export function loadConfig(): IntervalsConfig {
       apiKey: envApiKey,
       baseUrl: envBaseUrl,
     };
-  }
-
-  const home = os.homedir();
-  const openclawConfigCandidates = [
-    process.env.OPENCLAW_CONFIG,
-    path.join(home, '.openclaw', 'workspace', 'openclaw.json'),
-    path.join(home, '.openclaw', 'openclaw.json'),
-  ].filter(Boolean) as string[];
-
-  for (const candidate of openclawConfigCandidates) {
-    if (!fs.existsSync(candidate)) continue;
-    const raw = fs.readFileSync(candidate, 'utf-8');
-    const cfg = JSON.parse(raw);
-    const apiKey =
-      cfg?.secrets?.intervalsIcu?.apiKey || cfg?.intervalsIcu?.apiKey;
-    const baseUrl =
-      cfg?.secrets?.intervalsIcu?.baseUrl || cfg?.intervalsIcu?.baseUrl;
-    if (apiKey) {
-      return {
-        apiKey,
-        baseUrl,
-      };
-    }
   }
 
   const configPath =
