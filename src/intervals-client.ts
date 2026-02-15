@@ -1,9 +1,5 @@
 import axios, { AxiosInstance } from 'axios';
-
-interface IntervalsConfig {
-  apiKey: string;
-  baseUrl?: string;
-}
+import { IntervalsConfig } from './config';
 
 interface Activity {
   id: string;

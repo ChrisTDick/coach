@@ -1,16 +1,16 @@
 import axios, { AxiosInstance } from 'axios';
 import * as fs from 'fs';
 import * as path from 'path';
+import { loadConfig } from './config';
 
 // Load config
-const configPath = path.join(__dirname, '../config.json');
-const config = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
+const config = loadConfig();
 
 const client: AxiosInstance = axios.create({
-  baseURL: config.intervalsIcu.baseUrl || 'https://intervals.icu/api/v1',
+  baseURL: config.baseUrl || 'https://intervals.icu/api/v1',
   auth: {
     username: 'API_KEY',
-    password: config.intervalsIcu.apiKey,
+    password: config.apiKey,
   },
   headers: {
     'Content-Type': 'application/json',

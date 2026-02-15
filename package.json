@@ -5,8 +5,12 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
+    "cli": "ts-node src/cli.ts",
     "test": "ts-node src/test.ts",
     "dev": "ts-node src/index.ts"
+  },
+  "bin": {
+    "coach-cli": "dist/cli.js"
   },
   "keywords": ["intervals.icu", "training", "coaching"],
   "author": "",

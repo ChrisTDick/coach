@@ -1,16 +1,16 @@
 import axios, { AxiosInstance } from 'axios';
 import * as fs from 'fs';
 import * as path from 'path';
+import { loadConfig } from './config';
 
 // Load config
-const configPath = path.join(__dirname, '../config.json');
-const config = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
+const config = loadConfig();
 
 const client: AxiosInstance = axios.create({
-  baseURL: config.intervalsIcu.baseUrl || 'https://intervals.icu/api/v1',
+  baseURL: config.baseUrl || 'https://intervals.icu/api/v1',
   auth: {
     username: 'API_KEY',
-    password: config.intervalsIcu.apiKey,
+    password: config.apiKey,
   },
   headers: {
     'Content-Type': 'application/json',
@@ -19,7 +19,7 @@ const client: AxiosInstance = axios.create({
 
 const DATA_DIR = path.join(__dirname, '../data');
 const START_DATE = '2025-12-25';
-const END_DATE = new Date().toISOString().split('T')[0]; // Today
+const END_DATE = process.env.END_DATE || new Date().toISOString().split('T')[0]; // Today
 
 interface DownloadResult {
   athlete: any;
